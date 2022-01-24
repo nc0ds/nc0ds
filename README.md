@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=compact&theme=radical)](https://github.com/nc0ds)
 
 ## Who is me?
-Hello, my name is Nathan Caio, I'm from Brazil and I trying to be a cool programmer 😁
+Hello, my name is Nathan Caio, I'm from Brazil and I'm trying to be a cool programmer 😁
 
 ## Skills
 Here is some of my skills 😎
