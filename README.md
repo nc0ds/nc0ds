@@ -25,9 +25,8 @@ Here is some of my skills 😎
 
 ## My goals
 - To catch all programming languages and become a development master
-- To ``preventDefault()`` the end of the world in less than three days
-- To receive the symptom of the universe (a love that never dies)
-- To graduate 🙃
+- To master React and become a living legend
+- To change my life and my family's life with programming
 
 ## What am I planning to study right now?
 I'm really interested on learn [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) and probably I'll end learning [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#) and [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) someday 👀
