@@ -32,5 +32,5 @@ Here is some of my skills 😎
 For now I'm focused in mastering React and Next.js and the most used tools for them.
 
 ## Contact me
-- Send message on [Telegram](https://t.me/nc0ds)
+- Send me a message on [Telegram](https://t.me/nc0ds)
 - Or just send me an email: nathancaio1715@gmail.com
