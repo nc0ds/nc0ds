@@ -29,9 +29,8 @@ Here is some of my skills 😎
 - To change my life and my family's life with programming
 
 ## What am I planning to study right now?
-I'm really interested on learn [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) and probably I'll end learning [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](#) and [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) someday 👀
+For now I'm focused in mastering React and Next.js and the most used tools for them.
 
 ## Contact me
-- On my own [portfolio](https://portfolionathancaio.vercel.app/)
 - Send message on [Telegram](https://t.me/nc0ds)
 - Or just send me an email: nathancaio1715@gmail.com
