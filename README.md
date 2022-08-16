@@ -1,6 +1,6 @@
 # console.log("Hello World!")
 
-<a href="https://github.com/nc0ds?tab=repositories" align="center">
+<a href="https://github.com/nc0ds?tab=repositories" style="text-align: center;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact" />
 </a>
 <br />
