@@ -1,6 +1,6 @@
 # console.log("Hello World!")
 
-<div align="center">
+<div align="center" style="display: flex; background-color: red;">
   <a href="https://github.com/nc0ds?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark" />
   </a>
