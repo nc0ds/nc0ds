@@ -1,7 +1,7 @@
 # console.log("Hello World!")
 
-[![nc0ds's GitHub stats](https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=radical)](https://github.com/nc0ds)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=compact&theme=radical)](https://github.com/nc0ds)
+[![nc0ds's GitHub stats](https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/nc0ds)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=compact&theme=vision-friendly-dark)](https://github.com/nc0ds)
 
 ## Who is me?
 Hello, my name is Nathan Caio, I'm from Brazil and I'm trying to be a cool programmer 😁
