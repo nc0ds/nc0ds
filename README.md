@@ -1,7 +1,7 @@
 # console.log("Hello World!")
 
 <a href="https://github.com/nc0ds?tab=repositories">
-  [![nc0ds's GitHub stats](https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/nc0ds)
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark)" />
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=compact&theme=vision-friendly-dark)](https://github.com/nc0ds)
 
