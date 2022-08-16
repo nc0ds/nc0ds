@@ -1,6 +1,8 @@
 # console.log("Hello World!")
 
-[![nc0ds's GitHub stats](https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/nc0ds)
+<a href="https://github.com/nc0ds?tab=repositories">
+  [![nc0ds's GitHub stats](https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/nc0ds)
+</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=compact&theme=vision-friendly-dark)](https://github.com/nc0ds)
 
 ## Who is me?
