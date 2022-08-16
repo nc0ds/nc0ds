@@ -1,12 +1,14 @@
 # console.log("Hello World!")
 
-<a href="https://github.com/nc0ds?tab=repositories" style="text-align: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact" />
-</a>
-<br />
-<a href="https://github.com/nc0ds?tab=repositories" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=compact&theme=vision-friendly-dark" />
-</a>
+<div style="display: flex;">
+  <a href="https://github.com/nc0ds?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  </a>
+  <br />
+  <a href="https://github.com/nc0ds?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</div>
 
 ## Who is me?
 Hello, my name is Nathan Caio, I'm from Brazil and I'm trying to be a cool programmer 😁
