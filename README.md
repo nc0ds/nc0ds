@@ -1,11 +1,11 @@
 # console.log("Hello World!")
 
 <a href="https://github.com/nc0ds?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark?layout=default" />
 </a>
 <br />
 <a href="https://github.com/nc0ds?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=compact&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=default&theme=vision-friendly-dark" />
 </a>
 
 ## Who is me?
