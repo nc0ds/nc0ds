@@ -1,43 +1,37 @@
-# console.log("Hello World!")
+# console.log("Hello, world!")
 
-<div align="center">
-  <a href="https://github.com/nc0ds?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=nc0ds&count_private=true&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-  <br />
-  <a href="https://github.com/nc0ds?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc0ds&layout=compact&theme=vision-friendly-dark" />
-  </a>
+Hey, what's up? My name is Nathan Caio, I'm from Brazil and I'm a front-end developer. My main language is JavaScript and main stacks are React and Next.js, but I don't intend to stop here.
+
+## My main stacks 😎
+As a front-end developer, this is the main tools I use in my projects:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" />
 </div>
 
-## Who is me?
-Hello, my name is Nathan Caio, I'm from Brazil and I'm trying to be a cool programmer 😁
+And so on...
 
-## Skills
-Here is some of my skills 😎
+## Work in progress 🤓
+I'm never done learning, so these are the things I am currently studying or plan to study soon:
 
-### Main
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C plus plus" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" />
+</div>
 
-### Secondary
-[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+## Reach me out 📫
+Connect with me wherever you want:
 
-## My goals
-- To catch all programming languages and become a development master
-- To master React and become a living legend
-- To change my life and my family's life with programming
-
-## What am I planning to study right now?
-For now I'm focused in mastering React and Next.js and the most used tools for them.
-
-## Contact me
-- Send me a message on [Telegram](https://t.me/nc0ds)
-- Or just send me an email: nathancaio1715@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/nathan-caio-da-silva-38b769186/)
+- [Telegram](https://t.me/nc0ds)
+- Email: [nathancaio1715@gmail.com](mailto:nathancaio1715@gmail.com?subject=Portfolio%20-%20Contact)
